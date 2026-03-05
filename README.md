@@ -3,7 +3,7 @@
 This repository contains the data and example code to reproduce the figures for the following paper:
 
 Yusuke Takeda, Nobuo Hiroe, Okito Yamashita.
-"Time-locked activities of resting-state networks that transiently occur in human resting-state brain activities"
+"Time-locked activities of resting-state networks that transiently occur in human resting-state brain activities."
 In revision.
 
 ## Instructions
